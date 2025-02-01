@@ -1,13 +1,13 @@
 ## 🚀 Welcome to My GitHub Profile!
 
-<img src="https://github.com/XDLIN57/banner.png" alt="GitHub Banner" width="100%"/>
+<img src="https://github.com/XDLIN57/banner.png/blob/main/github-header-image.png" alt="GitHub Banner" width="100%"/>
 
 ### 🌟 About Me:
 - 🧑‍💻 Passionate **Developer & Tech Enthusiast**
 - 🔥 Always learning **new technologies & frameworks**
 - 🎯 Currently learning **Python, JavaScript & Lua**
 - 🛠️ Building **open-source projects**
-- 📫 Reach me on **Discord**: [Hazinf](https://discord.com/users/hazinf)
+- 📫 Reach me on **Discord**: [XDLIN57](https://discord.com/users/Hazinf)
 
 ---
 
@@ -35,5 +35,7 @@
 
 ---
 
-### 🔗 Talk With Me:
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/XDLIN57)
+### 🔗 Connect With Me:
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Hazinf)
+
+
