@@ -1,5 +1,3 @@
-## 🚀 Welcome to My GitHub Profile!
-
 <img src="https://github.com/XDLIN57/banner.png/blob/main/github-header-image.png" alt="GitHub Banner" width="100%"/>
 
 ### 🌟 About Me:
