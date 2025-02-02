@@ -5,7 +5,7 @@
 - 🔥 Always learning **new technologies & frameworks**
 - 🎯 Currently learning **Python, JavaScript & Lua**
 - 🛠️ Building **open-source projects**
-- 📫 Reach me on **Discord**: [XDLIN57](https://discord.com/users/Hazinf)
+- 📫 Reach me on **Discord**: [Hazinf](https://discord.com/users/Hazinf)
 
 ---
 
