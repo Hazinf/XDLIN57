@@ -23,10 +23,10 @@
 <table>
 <tr>
 <td>
-  <img src="https://streak-stats.demolab.com/?user=XDLIN57&theme=dark&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Hazinf&theme=dark&hide_border=true" alt="GitHub Streak"/>
 </td>
 <td>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XDLIN57&layout=compact&theme=dark" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hazinf&layout=compact&theme=dark" alt="Top Languages"/>
 </td>
 </tr>
 </table>
